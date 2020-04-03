@@ -8,7 +8,7 @@ A personal project attempting to create a card game called: 'Thirteen', written 
 - The game supports 2 to 4 players.
 - At the start of the game, each player rolls a dice to determine the starting player and the cycle. Then each player is shuffled and drawn 13 cards from the deck.
 - The winning condition is the 1st player to empty their hand; granting them significantly more points than the other placements.
-- The game includes a 'Passing' system by which if a player is unable to beat a certain combo, they will be required to pass. If all players 'Pass' then the last player to play the combo (the one being passed) is granted a free turn.
+- The game includes a 'Passing' system by which if a player is unable to beat a certain combo, they will be required to pass. If all players 'Pass' then the last player to play the combo (the one being passed) is granted a 'Free Turn'.
 
 **Free Turn**
 - in a 'Free Turn' the player granted this can play any combo they choose, regardless of the previous combo.
